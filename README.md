@@ -11,3 +11,5 @@ Notes for developing a course on critical thinking around the ethics, sociology 
 * https://medium.com/thingclash/the-critical-iot-reading-list-ba55d58c08a1#.22bytos6b
 * https://github.com/allisonburtch/Critical-Theory-of-Technology
 
+## Video 
+* Rebel Geeks - The Citizens Network, Al Jazeera by Disobedient Films https://www.youtube.com/watch?v=aQikv0x_DN4&feature=youtu.be
